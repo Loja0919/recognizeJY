@@ -7,8 +7,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver import ActionChains
-EMAIL = '1258923182@qq.com'
-PASSWORD = 'FH19920919'
+EMAIL = ''
+PASSWORD = ''
 BORDER = 6
 INIT_LEFT = 60
 class CrackGeetest():
